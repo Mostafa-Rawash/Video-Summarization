@@ -9,7 +9,7 @@ from moviepy.editor import VideoFileClip
 
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
 	  
 UPLOAD_FOLDER = './static/files/'
 ALLOWED_EXTENSIONS = { "mp4" , "mp3"}
